@@ -1,0 +1,14 @@
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\bin\Debug\net9.0\DiceRoll.exe
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\bin\Debug\net9.0\DiceRoll.deps.json
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\bin\Debug\net9.0\DiceRoll.runtimeconfig.json
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\bin\Debug\net9.0\DiceRoll.dll
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\bin\Debug\net9.0\DiceRoll.pdb
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.AssemblyInfoInputs.cache
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.AssemblyInfo.cs
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.dll
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\refint\DiceRoll.dll
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.pdb
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.genruntimeconfig.cache
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\ref\DiceRoll.dll
