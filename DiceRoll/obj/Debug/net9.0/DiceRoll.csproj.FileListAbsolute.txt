@@ -12,3 +12,4 @@ C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRo
 C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.pdb
 C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.genruntimeconfig.cache
 C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\ref\DiceRoll.dll
+C:\Users\elfar\OneDrive\Desktop\Skrifa\Forritun\practiceC#\practiceCsharp\DiceRoll\obj\Debug\net9.0\DiceRoll.sourcelink.json
