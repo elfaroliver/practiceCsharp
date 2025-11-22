@@ -5,11 +5,14 @@ namespace PracticeCsharp
   class OrangeDice
   {
 
-  /** 
-  The armor value of the Orange Dice 
-  Starts at 5 and probably won't go over 10, ever
-  */  
+    /** 
+    The armor value of the Orange Dice 
+    Starts at 5 and probably won't go over 10, ever
+    */
   public int Armor = 5;
+  public static bool PlusPerTurn() {
+    return true;
+  }
 
   static void Main(string[] args)
   {
@@ -23,9 +26,6 @@ namespace PracticeCsharp
     {
       Armor = Armor + 1;
     }
-  }
-  public static bool PlusPerTurn() {
-    return true;
   }
 
   public static int Armor { get; set; }
