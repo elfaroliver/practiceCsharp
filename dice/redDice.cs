@@ -20,12 +20,20 @@ namespace PracticeCsharp
     etc...
     **/
     public double AddToDamage(double baseDamage)
-{
+    {
     int roll = RedDiceRoll();   // 1–6
     double multiplier = roll * 0.10; // 10% per roll
 
     return baseDamage * (1 + multiplier);
-}
+    }
+
+    public double AddToUpgrade1(double baseDamage)
+    {
+      if (RedDiceRoll() == 6)
+      {
+        return baseDamage * 2; // Double damage on roll of 6
+      }
+    }
 
     public bool IsEvenRoll()
     {
