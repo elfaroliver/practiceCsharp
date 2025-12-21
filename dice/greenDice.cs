@@ -4,11 +4,17 @@ namespace PracticeCsharp
 {
   class GreenDice
   {
-    public int GreenDiceRoll()
+    public double GreenDiceRoll()
     {
       int[] greenDice = [1, 2, 3, 4, 5, 6];
       Random random = new Random();
       return greenDice[random.Next(0, greenDice.Length)];
+    }
+
+    public double newTurn()
+    {
+      playerHealth + 1;
+      return playerHealth;
     }
 
     public bool IsEvenRoll()

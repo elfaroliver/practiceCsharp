@@ -10,6 +10,25 @@ namespace PracticeCsharp
 
     }
 
+    public bool HasFiveSkillPoints()
+    {
+      if (skillPoints >= 5)
+      {
+        return true;
+      }
+    }
+
+    public double limelightUpgrade(double baseDamage)
+    {
+      AddToDamage(baseDamage);
+      RedDiceRoll();
+
+      if (HasFiveSkillPoints())
+      {
+        return baseDamage * 1.5; // 50% more damage
+      }
+    }
+
     public static bool weakEnemy()
     {
       return true;

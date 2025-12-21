@@ -4,9 +4,9 @@ namespace PracticeCsharp
 {
   class RedDice
   {
-    public int RedDiceRoll()
+    public double RedDiceRoll()
     {
-      int[] redDice = [1, 2, 3, 4, 5, 6];
+      double[] redDice = [1, 2, 3, 4, 5, 6];
       Random random = new Random();
       return redDice[random.Next(0, redDice.Length)];
 
@@ -20,12 +20,23 @@ namespace PracticeCsharp
     etc...
     **/
     public double AddToDamage(double baseDamage)
-{
-    int roll = RedDiceRoll();   // 1–6
-    double multiplier = roll * 0.10; // 10% per roll
+    {
+      double roll = RedDiceRoll();   // 1–6
+      double multiplier = roll * 0.10; // 10% per roll
 
-    return baseDamage * (1 + multiplier);
-}
+      return baseDamage * (1 + multiplier);
+    }
+
+    public double AddToUpgrade1(double baseDamage)
+    {
+      if (RedDiceRoll() == 6)
+      {
+        return baseDamage * 2; // Double damage on roll of 6
+      } else
+      {
+        return baseDamage;
+      }
+    }
 
     public bool IsEvenRoll()
     {
