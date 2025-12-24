@@ -4,13 +4,12 @@ namespace PracticeCsharp
 {
   class RedDice
   {
+    private double[] redDice = { 1, 2, 3, 4, 5, 6 };
+    private Random random = new Random();
+
     public double RedDiceRoll()
     {
-      double[] redDice = [1, 2, 3, 4, 5, 6];
-      Random random = new Random();
-      return redDice[random.Next(0, redDice.Length)];
-
-      //return random.Next(1, 7);
+      return redDice[random.Next(redDice.Length)];
     }
 
     /**
@@ -35,6 +34,25 @@ namespace PracticeCsharp
       } else
       {
         return baseDamage;
+      }
+    }
+
+    public double AddToUpgrade2(double baseDamage)
+    {
+      if (skillPracticeCsharp.RollTheDie.playerFiles.playerHealth.PlayerHealth.Health() < 10)
+      {
+        return baseDamage * 1.5; // Increase damage by 50% if health is below 10
+      } else
+      {
+        return baseDamage;
+      }
+    }
+
+    public double AddToUpgrade3(double baseDamage)
+    {
+      if (skillpointshowevermany)
+      {
+        RedDice [0] = 2;
       }
     }
 
