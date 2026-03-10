@@ -17,6 +17,12 @@ namespace PracticeCsharp
       return playerHealth;
     }
 
+    public double enemyDeath()
+    {
+      playerHealth + 2;
+      return playerHealth;
+    }
+
     public bool IsEvenRoll()
     {
       int roll = GreenDiceRoll();

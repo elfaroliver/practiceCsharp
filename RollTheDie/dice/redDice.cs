@@ -4,7 +4,7 @@ namespace PracticeCsharp
 {
   class RedDice
   {
-    private double[] redDice = { 1, 2, 3, 4, 5, 6 };
+    private double[] redDice = { 0, 1, 2, 3, 4, 5, };
     private Random random = new Random();
 
     public double RedDiceRoll()
